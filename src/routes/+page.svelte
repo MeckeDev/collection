@@ -1,4 +1,6 @@
 <script>
+  export const prerender = true;
+
   import Pins from "$lib/pins.json";
   let collected = [23, 10, 8, 41, 13, 9, 15, 17, 25, 28, 29, 42, 11, 30, 24, 18, 31, 37, 19, 38, 32, 26, 43, 39, 44, 33, 21, 27, 20, 40, 35, 34, 36];
 </script>
